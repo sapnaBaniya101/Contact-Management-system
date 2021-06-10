@@ -1,0 +1,221 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+first
+</name>
+</assembly>
+<members>
+<member name="T:first.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources._69867587">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.computer_2137265_960_720">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.contact_logo_emblem_contact_logo_emblem_logo_design_template_vector_104292504">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.group">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.iconfinder_lock_622405">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.iconfinder_logout_account_exit_door_3005766">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.iconfinder_user_male4_172628">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.img2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.istockphoto_1049658692_612x612">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.landing_page">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.laptop_with_gears_emerging_from_display_development_fix_process_update_by_serhii_mudruk_gettyimages_1201799929_2400x1600_100854507_large">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:first.My.Resources.Resources.working_from_home_death_knell_offices">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.contactDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.emailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.groupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.registerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.contactRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.emailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.groupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.registerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.contactRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.emailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.groupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSet.registerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSetTableAdapters.contactTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSetTableAdapters.emailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSetTableAdapters.groupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSetTableAdapters.registerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:first.contactdatabase1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(first.contactdatabase1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:first.contactdatabase1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(first.contactdatabase1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:first.contactdatabase1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(first.contactdatabase1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:first.contactdatabase1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:first.contactdatabase1DataSetTableAdapters.TableAdapterManager.UpdateAll(first.contactdatabase1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:first.contactdatabase1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:first.contactdatabaseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:first.contactdatabaseDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
